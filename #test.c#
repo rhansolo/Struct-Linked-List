@@ -1,0 +1,5 @@
+#include "structlink.c"
+
+int main(){
+  
+}
